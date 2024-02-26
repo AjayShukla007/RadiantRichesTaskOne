@@ -1,6 +1,5 @@
-## Assignment Task 1
-
-## Description
+## Radiant Riches Assignment Task 1
+## Description:
 
 - This React application is built using [Vite](https://vitejs.dev/).
 - It uses [Tailwind CSS](https://tailwindcss.com/)
@@ -14,7 +13,7 @@
 
 ## Running in dev environment
 
-1.  `cd YOUR_APPLICATION`
+1.  `cd RadiantRichesTaskOne`
 2.  `npm install`
 3.  `npm start`
 
@@ -56,4 +55,4 @@ yarn add react-router
 ```
 
 ## Website Preview
-<img src="https://github.com/AjayShukla007/Radiant-Riches/blob/master/public/website.png" alt="website screenshot"></a>
+<img src="https://github.com/AjayShukla007/RadiantRichesTaskOne/blob/master/public/website.png" alt="website screenshot"></a>
